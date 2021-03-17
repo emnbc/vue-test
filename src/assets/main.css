@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",Arial,sans-serif;
+}
+
+.container {
+    max-width: 1240px;
+    width: calc(100% - 32px);
+    height: 100%;
+    padding: 16px 16px;
+    margin-right: auto;
+    margin-left: auto;
+}
