@@ -1,4 +1,4 @@
-# aydar-front
+# vue-front
 
 ## Project setup
 ```
